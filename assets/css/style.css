@@ -435,5 +435,5 @@ ul {
 
 .Contact .card:hover {
     background-color: var(--main-calar) !important;
-    transform: scale(1.2);
+    transform: scale(1.05);
 }
