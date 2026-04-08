@@ -461,15 +461,17 @@ ul {
     .Container {
         width: 92%;
     }
-
+    .home .Content>h4{
+        font-size: 18px;
+    }
     .icon ul {
         gap: 12px;
         margin-top: 40px;
     }
 
     .icon ul a {
-        width: 48px;
-        height: 48px;
+        width: 30px;
+        height: 30px;
         font-size: 18px;
     }
 
